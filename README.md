@@ -1,3 +1,6 @@
+<div id="header" align="center">
+<img src="[https://media0.giphy.com/media/lbcLMX9B6sTsGjUmS3/giphy.gif?cid=ecf05e472bgh67ahzo6zbm5folfwq03pvwxxq4lhlrspfhzt&rid=giphy.gif&ct=g](https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)" width=800 height=250/>
+
 <h1 align="center">Hi 👋, I'm Alberto Marquez</h1>
 - 🌱 I’m currently learning **PHP**
 
