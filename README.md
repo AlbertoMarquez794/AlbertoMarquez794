@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Alberto Marquez</h1>
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **SQL, MYSQL, PYTHON, PHP and JAVA**
+- 💬 Ask me about **SQL, MYSQL, PYTHON, PHP, C# and JAVA**
 
 - 📫 How to reach me **bchavezm@itam.mx**
 
