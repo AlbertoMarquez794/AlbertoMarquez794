@@ -2,7 +2,7 @@
 <img src="https://media.tenor.com/i3lImBg2UEQAAAAd/scaler-create-impact.gif" width=800 height=250/>
 
 <h1 align="center">Hi 👋, I'm Alberto Marquez</h1>
-- 🌱 I’m currently learning **Github Actions**
+- 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **SQL, MYSQL, PYTHON, PHP, C# and JAVA**
 
